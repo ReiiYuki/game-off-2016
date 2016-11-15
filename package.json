@@ -4,7 +4,22 @@
   "description": "github game off competition",
   "main": "index.js",
   "scripts": {
-    "test": "no command right now lol"
+    "start": "brunch watch --server --port 8000",
+    "prod": "brunch build --production"
+  },
+  "dependencies": {
+    "phaser": "^2.6.2"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.0.0",
+    "babel-brunch": "~6.0.0",
+    "babel-preset-es2015": "~6.3.13",
+    "babel-preset-stage-0": "^6.16.0",
+    "brunch": "^2.4.0",
+    "clean-css-brunch": "^2.0.0",
+    "css-brunch": "^2.0.0",
+    "javascript-brunch": "^2.0.0",
+    "uglify-js-brunch": "^2.0.0"
   },
   "repository": {
     "type": "git",
@@ -13,7 +28,7 @@
   "keywords": [
     "game"
   ],
-  "author": "WASD",
+  "author": "SKE-12-TEAM",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ReiiYuki/game-off-2016/issues"
