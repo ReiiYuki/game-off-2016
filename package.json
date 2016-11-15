@@ -1,0 +1,22 @@
+{
+  "name": "game-off-2016",
+  "version": "1.0.0",
+  "description": "github game off competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "no command right now lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/game-off-2016.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "WASD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/game-off-2016/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/game-off-2016#readme"
+}
