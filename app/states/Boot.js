@@ -1,6 +1,6 @@
 export default class Boot extends Phaser.State{
   init(){
-    this.game.stage.backgroundColor = "#b2d550"
+    this.game.stage.backgroundColor = "#9e9e9e"
     this.game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL
     this.game.scale.pageAlignHorizontally = true
     this.game.scale.pageAlignVertically = true

@@ -4,7 +4,7 @@
   "description": "github game off competition",
   "main": "index.js",
   "scripts": {
-    "start": "brunch watch --server --port 8000",
+    "start": "brunch watch --debug --server --port 8000",
     "prod": "brunch build --production"
   },
   "dependencies": {
